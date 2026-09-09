@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Chef's Menu Manager",
+    "slug": "chef-menu-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.example.chefmenumanager"
+    }
+  }
+}
